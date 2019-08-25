@@ -1,6 +1,4 @@
-package assignment;
-
-public class q4 {
+public class question4 {
 
   public static void main(String[] args) {
   String largest;
