@@ -1,6 +1,4 @@
-package com.assignment;
-
-public class  q6 {
+public class  question6b {
 
   public static void main(String[] args) {
    
