@@ -1,6 +1,4 @@
-package com.assignment;
-
-public class q3 {
+public class question3d {
 
   public static void main(String[] args) {
   
