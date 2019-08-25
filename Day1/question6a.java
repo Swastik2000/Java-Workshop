@@ -1,6 +1,4 @@
-
-
-public class q6 {
+public class question6a {
 
   public static void main(String[] args) {
    
