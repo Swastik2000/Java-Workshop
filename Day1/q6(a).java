@@ -1,4 +1,4 @@
-package com.assignment;
+
 
 public class q6 {
 
