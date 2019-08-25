@@ -1,6 +1,4 @@
-package com.assignment;
-
-public class q2 {
+public class question2a {
 
   public static void main(String[] args) {
    char ch='a';
